@@ -7,3 +7,7 @@
 # Disclaimer
 
 All your contributions belong to us.
+
+# License
+
+We don't have one yet.
