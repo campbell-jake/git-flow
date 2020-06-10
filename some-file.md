@@ -1,7 +1,6 @@
 # Collaborators
 
-* Pawan Poudel - Engineering Manager
-* Jake Campbell - The Best QA in all the land :)
+* Jake Campbell - Now you have to do all the work!
 
 # Disclaimer
 
