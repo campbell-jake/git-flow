@@ -9,3 +9,7 @@ All your contributions belong to us.
 # Terms
 
 We collect your information for diagnostic purposes.
+
+# Policy
+
+We don't have one that I am aware of.
