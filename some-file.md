@@ -5,3 +5,7 @@
 # Disclaimer
 
 All your contributions belong to us.
+
+# Terms
+
+We collect your information for diagnostic purposes.
